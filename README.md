@@ -1,4 +1,4 @@
-# Hello, Polster here, An IT Profeessional.
+# Hello, Polster Antenor, An IT Profeessional.
 
 
 <h2> Information Technology Projects:</h2>
