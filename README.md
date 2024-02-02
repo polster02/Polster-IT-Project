@@ -3,11 +3,10 @@
 
 <h2> Information Technology Projects:</h2>
 
-
 - <b>Microsoft Azure</b>
-  - Configuring On-premises Active Directory within Azure VMs
+  - Vms Deployment in Microsoft Azure
   - Network Security Groups (NSGs) and Inspecting Network Protocols
-  - Vms Deployments
+  - Configuring On-premises Active Directory within Azure VMs
 
 
 
